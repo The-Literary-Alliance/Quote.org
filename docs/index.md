@@ -6,5 +6,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-list_title: Blog Posts
+list_title: Blogs
 ---
