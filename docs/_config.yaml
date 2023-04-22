@@ -1,3 +1,4 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Quote.org
 description: Project home page for Quote.org
+show_downloads: "false"
