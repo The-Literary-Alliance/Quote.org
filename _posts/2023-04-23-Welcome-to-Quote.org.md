@@ -11,6 +11,6 @@ categories: misc
 
 Welcome to our new blog site! Here you will find interesting blogs regarding the world of quotes, updates we've made to the site, and maybe some insights into the future of Quote.org.
 
-Thank you for visiting [Quote.org](https://quote.org) and please do share the site and your favorite quotes with you friends.
+Thank you for visiting [Quote.org](https://quote.org) and please do share the site and your favorite quotes with your friends.
 
 -- Quote.org Team
