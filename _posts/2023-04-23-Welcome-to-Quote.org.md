@@ -3,9 +3,8 @@ layout: post
 title: "Welcome to Quote.org"
 categories: misc
 ---
-![Quote.org Logo](/assets/Logo-dkblue-120x120.png)
 <p align="center">
-    <img src=https://blog.quote.org/assets/Logo-dkblue-120x120.png>
+    <img src="https://blog.quote.org/assets/Logo-dkblue-120x120.png">
 </p>
 
 ## A site dedicated to providing famous (and not so famous) quotes.
